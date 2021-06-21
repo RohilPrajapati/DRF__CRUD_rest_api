@@ -3,3 +3,4 @@ Basic CRUD function rest api
 
 
 - models is of products
+- this api use APIView for viewing api
